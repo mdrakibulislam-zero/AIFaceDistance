@@ -25,7 +25,7 @@ Math is a built-in module that we can use for mathematical tasks.
 ## Usage:
 - First of all you need to install all required packages. 
 - Then run the FaceDistance.py file.
-- You're done! Enjoy the face mesh detection program.
+- You're done! Enjoy the face distance measurement program.
 
 
 ## Tutorial:
